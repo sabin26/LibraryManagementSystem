@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Stefan Salvatore
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $3.5
+
+Issued Date/Time: 2019-01-09 03:53 PM
+...................................................................

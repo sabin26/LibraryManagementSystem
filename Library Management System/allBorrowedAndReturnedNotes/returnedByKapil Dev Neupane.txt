@@ -1,0 +1,8 @@
+
+...................................................................
+Name of the borrower: Kapil Dev Neupane
+
+Books returned: Programming With Python
+
+Date/Time of return: 2019-01-06 05:52 PM
+...................................................................

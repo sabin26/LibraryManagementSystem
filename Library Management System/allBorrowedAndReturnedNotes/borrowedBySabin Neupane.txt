@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Sabin Neupane
+
+Borrowed Book/s: Harry Potter - Start With Why - Programming With Python
+
+Total amount to be paid: $77.5
+
+Issued Date/Time: 2019-01-05 09:18 AM
+...................................................................

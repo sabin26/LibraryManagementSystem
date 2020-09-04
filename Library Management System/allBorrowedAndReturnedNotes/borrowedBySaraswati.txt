@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Saraswati
+
+Borrowed Book/s: Programming With Python - Start With Why
+
+Total amount to be paid: $15.0
+
+Issued Date/Time: 2019-01-08 09:22 AM
+...................................................................

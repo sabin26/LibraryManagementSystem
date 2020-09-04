@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Saroj Paudyal
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $90.0
+
+Issued Date/Time: 2019-01-05 09:32 AM
+...................................................................

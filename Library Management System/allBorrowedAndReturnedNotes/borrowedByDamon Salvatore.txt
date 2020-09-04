@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Damon Salvatore
+
+Borrowed Book/s: Harry Potter
+
+Total amount to be paid: $4.0
+
+Issued Date/Time: 2019-01-09 03:49 PM
+...................................................................

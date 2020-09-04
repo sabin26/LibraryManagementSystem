@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Gopal Prasad Rimal
+
+Borrowed Book/s: Programming With Python - Harry Potter - Start With Why
+
+Total amount to be paid: $105.0
+
+Issued Date/Time: 2019-01-06 12:22 PM
+...................................................................

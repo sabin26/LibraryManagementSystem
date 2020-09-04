@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Krishna
+
+Borrowed Book/s: Harry Potter
+
+Total amount to be paid: $30.0
+
+Issued Date/Time: 2019-01-04 07:43 PM
+...................................................................

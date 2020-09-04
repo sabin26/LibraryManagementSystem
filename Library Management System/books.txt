@@ -1,0 +1,3 @@
+Harry Potter, JK Rowling, 0, $2
+Start with Why, Simon Sinek, 10, $1.5
+Programming With Python, John Smith, 20, $1.5

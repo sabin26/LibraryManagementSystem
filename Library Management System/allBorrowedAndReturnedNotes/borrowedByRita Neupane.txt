@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Rita Neupane
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $65.0
+
+Issued Date/Time: 2019-01-05 11:55 AM
+...................................................................

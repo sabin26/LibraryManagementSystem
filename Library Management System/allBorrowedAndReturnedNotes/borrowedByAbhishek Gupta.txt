@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Abhishek Gupta
+
+Borrowed Book/s: Start With Why - Harry Potter
+
+Total amount to be paid: $3.5
+
+Issued Date/Time: 2019-01-11 01:41 PM
+...................................................................

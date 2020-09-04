@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Roman
+
+Borrowed Book/s: Start With Why
+
+Total amount to be paid: $4.5
+
+Issued Date/Time: 2019-01-07 11:20 AM
+...................................................................

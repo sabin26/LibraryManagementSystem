@@ -1,0 +1,207 @@
+...................................................................
+Name of the borrower: Krishna
+
+Borrowed Book/s: Harry Potter
+
+Total amount to be paid: $30.0
+
+Issued Date/Time: 2019-01-04 07:43 PM
+...................................................................
+...................................................................
+Name of the borrower: Sabin Neupane
+
+Borrowed Book/s: Harry Potter - Start With Why - Programming With Python
+
+Total amount to be paid: $77.5
+
+Issued Date/Time: 2019-01-05 09:18 AM
+...................................................................
+...................................................................
+Name of the borrower: Saroj Paudyal
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $90.0
+
+Issued Date/Time: 2019-01-05 09:32 AM
+...................................................................
+...................................................................
+Name of the borrower: Kapil Dev Neupane
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $25.0
+
+Issued Date/Time: 2019-01-05 11:55 AM
+...................................................................
+...................................................................
+Name of the borrower: Rita Neupane
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $65.0
+
+Issued Date/Time: 2019-01-05 11:55 AM
+...................................................................
+...................................................................
+Name of the borrower: Bahadur Pun
+
+Borrowed Book/s: Start With Why - Harry Potter - Programming With Python
+
+Total amount to be paid: $105.0
+
+Issued Date/Time: 2019-01-05 03:35 PM
+...................................................................
+...................................................................
+Name of the borrower: Hari Krishna
+
+Borrowed Book/s: Harry Potter - Start With Why
+
+Total amount to be paid: $39.0
+
+Issued Date/Time: 2019-01-05 03:39 PM
+...................................................................
+...................................................................
+Name of the borrower: Sagar
+
+Borrowed Book/s: Start With Why - Programming With Python - Harry Potter
+
+Total amount to be paid: $105.0
+
+Issued Date/Time: 2019-01-05 09:40 PM
+...................................................................
+...................................................................
+Name of the borrower: Gopal Prasad Rimal
+
+Borrowed Book/s: Programming With Python - Harry Potter - Start With Why
+
+Total amount to be paid: $105.0
+
+Issued Date/Time: 2019-01-06 12:22 PM
+...................................................................
+...................................................................
+Name of the borrower: Aayusha Neupane
+
+Borrowed Book/s: Start With Why
+
+Total amount to be paid: $7.5
+
+Issued Date/Time: 2019-01-06 05:56 PM
+...................................................................
+...................................................................
+Name of the borrower: Jon
+
+Borrowed Book/s: Start With Why
+
+Total amount to be paid: $7.5
+
+Issued Date/Time: 2019-01-06 08:44 PM
+...................................................................
+...................................................................
+Name of the borrower: Bibek Joshi
+
+Borrowed Book/s: Start With Why - Harry Potter
+
+Total amount to be paid: $7.0
+
+Issued Date/Time: 2019-01-07 11:06 AM
+...................................................................
+...................................................................
+Name of the borrower: Roman
+
+Borrowed Book/s: Start With Why
+
+Total amount to be paid: $4.5
+
+Issued Date/Time: 2019-01-07 11:20 AM
+...................................................................
+...................................................................
+Name of the borrower: Saurav Regmi
+
+Borrowed Book/s: Start With Why
+
+Total amount to be paid: $12.0
+
+Issued Date/Time: 2019-01-08 08:10 AM
+...................................................................
+...................................................................
+Name of the borrower: Saraswati
+
+Borrowed Book/s: Programming With Python - Start With Why
+
+Total amount to be paid: $15.0
+
+Issued Date/Time: 2019-01-08 09:22 AM
+...................................................................
+...................................................................
+Name of the borrower: Klaus Michaelson
+
+Borrowed Book/s: Programming With Python
+
+Total amount to be paid: $7.5
+
+Issued Date/Time: 2019-01-08 05:01 PM
+...................................................................
+...................................................................
+Name of the borrower: Elijah Michaelson
+
+Borrowed Book/s: Harry Potter - Start With Why
+
+Total amount to be paid: $47.5
+
+Issued Date/Time: 2019-01-08 05:05 PM
+...................................................................
+...................................................................
+Name of the borrower: Beerus Sama
+
+Borrowed Book/s: Start With Why - Harry Potter
+
+Total amount to be paid: $27.5
+
+Issued Date/Time: 2019-01-08 05:24 PM
+...................................................................
+...................................................................
+Name of the borrower: Whis San
+
+Borrowed Book/s: Programming With Python - Start With Why
+
+Total amount to be paid: $15.0
+
+Issued Date/Time: 2019-01-08 05:30 PM
+...................................................................
+...................................................................
+Name of the borrower: Damon Salvatore
+
+Borrowed Book/s: Harry Potter
+
+Total amount to be paid: $4.0
+
+Issued Date/Time: 2019-01-09 03:49 PM
+...................................................................
+...................................................................
+Name of the borrower: Stefan Salvatore
+
+Borrowed Book/s: Harry Potter - Programming With Python
+
+Total amount to be paid: $3.5
+
+Issued Date/Time: 2019-01-09 03:53 PM
+...................................................................
+...................................................................
+Name of the borrower: Abhishek Gupta
+
+Borrowed Book/s: Start With Why - Harry Potter
+
+Total amount to be paid: $3.5
+
+Issued Date/Time: 2019-01-11 01:41 PM
+...................................................................
+...................................................................
+Name of the borrower: Prayag
+
+Borrowed Book/s: Harry Potter
+
+Total amount to be paid: $2.0
+
+Issued Date/Time: 2019-01-16 03:57 PM
+...................................................................

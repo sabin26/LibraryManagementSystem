@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Sagar
+
+Borrowed Book/s: Start With Why - Programming With Python - Harry Potter
+
+Total amount to be paid: $105.0
+
+Issued Date/Time: 2019-01-05 09:40 PM
+...................................................................

@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Klaus Michaelson
+
+Borrowed Book/s: Programming With Python
+
+Total amount to be paid: $7.5
+
+Issued Date/Time: 2019-01-08 05:01 PM
+...................................................................

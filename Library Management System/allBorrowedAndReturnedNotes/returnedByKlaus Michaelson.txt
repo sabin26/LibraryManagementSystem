@@ -1,0 +1,8 @@
+
+...................................................................
+Name of the borrower: Klaus Michaelson
+
+Books returned: Programming With Python
+
+Date/Time of return: 2019-01-08 05:08 PM
+...................................................................

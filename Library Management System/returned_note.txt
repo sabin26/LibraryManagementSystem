@@ -1,0 +1,98 @@
+...................................................................
+Name of the borrower: Sabin Neupane
+
+Books returned: Harry Potter
+
+Date/Time of return: 2019-01-06 05:46 PM
+...................................................................
+...................................................................
+Name of the borrower: Kapil Dev Neupane
+
+Books returned: Programming With Python
+
+Date/Time of return: 2019-01-06 05:52 PM
+...................................................................
+...................................................................
+Name of the borrower: Aayusha Neupane
+
+Books returned: Start With Why
+
+Date/Time of return: 2019-01-06 08:03 PM
+...................................................................
+...................................................................
+Name of the borrower: Jon
+
+Books returned: Start With Why
+
+Date/Time of return: 2019-01-06 08:44 PM
+...................................................................
+...................................................................
+Name of the borrower: Bibek Joshi
+
+Books returned: Harry Potter
+
+Date/Time of return: 2019-01-07 11:06 AM
+...................................................................
+...................................................................
+Name of the borrower: Saurav Regmi
+
+Books returned: Start With Why
+
+Date/Time of return: 2019-01-08 08:10 AM
+...................................................................
+...................................................................
+Name of the borrower: Krishna
+
+Books returned: Harry Potter
+
+Date/Time of return: 2019-01-08 08:26 AM
+...................................................................
+...................................................................
+Name of the borrower: Saraswati
+
+Books returned: Programming With Python - Start With Why
+
+Date/Time of return: 2019-01-08 09:23 AM
+...................................................................
+...................................................................
+Name of the borrower: Elijah Michaelson
+
+Books returned: Start With Why
+
+Date/Time of return: 2019-01-08 05:06 PM
+...................................................................
+...................................................................
+Name of the borrower: Klaus Michaelson
+
+Books returned: Programming With Python
+
+Date/Time of return: 2019-01-08 05:08 PM
+...................................................................
+...................................................................
+Name of the borrower: Beerus Sama
+
+Books returned: Start With Why
+
+Date/Time of return: 2019-01-08 05:26 PM
+...................................................................
+...................................................................
+Name of the borrower: Whis San
+
+Books returned: Start With Why - Programming With Python
+
+Date/Time of return: 2019-01-08 05:33 PM
+...................................................................
+...................................................................
+Name of the borrower: Damon Salvatore
+
+Books returned: Harry Potter
+
+Date/Time of return: 2019-01-09 03:50 PM
+...................................................................
+...................................................................
+Name of the borrower: Abhishek Gupta
+
+Books returned: Harry Potter
+
+Date/Time of return: 2019-01-11 01:42 PM
+...................................................................

@@ -1,0 +1,10 @@
+
+...................................................................
+Name of the borrower: Whis San
+
+Borrowed Book/s: Programming With Python - Start With Why
+
+Total amount to be paid: $15.0
+
+Issued Date/Time: 2019-01-08 05:30 PM
+...................................................................
